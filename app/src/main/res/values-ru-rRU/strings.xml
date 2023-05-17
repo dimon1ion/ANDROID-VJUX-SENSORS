@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Вжух!</string>
+    <string name="shake_your_phone">Потряси телефон</string>
+    <string name="vjux_you_became_a_programmer">Вжух! Ты стал программистом</string>
+    <string name="vjux_a_dollar_is_worth_1_yuan">Вжух! Доллар стоит 1 юань</string>
+    <string name="vjux_kolobok_hanged_himself">Вжух! Колобок повесился</string>
+    <string name="vjux_you_ordered_pizza">Вжух! Ты заказал пиццу</string>
+    <string name="vjux_phone_is_formatted">Вжух! Телефон отформатирован</string>
+</resources>

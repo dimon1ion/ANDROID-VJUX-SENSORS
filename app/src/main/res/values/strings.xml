@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">MW_Vjux_Sensors</string>
+    <string name="app_name">Wjux!</string>
+    <string name="shake_your_phone">Shake your phone</string>
+    <string name="vjux_you_became_a_programmer">Vjux! You became a programmer</string>
+    <string name="vjux_a_dollar_is_worth_1_yuan">Vjux! A dollar is worth 1 yuan</string>
+    <string name="vjux_kolobok_hanged_himself">Vjux! Kolobok hanged himself</string>
+    <string name="vjux_you_ordered_pizza">Vjux! You ordered pizza</string>
+    <string name="vjux_phone_is_formatted">Vjux! Phone is formatted</string>
 </resources>
